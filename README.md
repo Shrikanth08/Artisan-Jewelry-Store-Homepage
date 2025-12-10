@@ -51,5 +51,5 @@ Font scale:
 
 ---
 
-## 🧩 Wireframe (Text Sketch)
+https://www.figma.com/make/zeHNfwqspEajjUY7rNcXtK/Artisan-Jewelry-Store-Homepage?node-id=0-1&p=f&t=JGqu9l2R5qZuFXBF-0
 
